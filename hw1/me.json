@@ -1,0 +1,10 @@
+{
+    "name": {
+        "first" : "Wenjing",
+        "last" : "Jiang"
+    },
+    "fromWisconsin" : false,
+    "numCredits" : 14,
+    "major" : "Computer Science",
+    "interests" : ["drawing","biking","movies"]
+}
