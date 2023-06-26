@@ -1,0 +1,59 @@
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+
+.large-text-wrap {
+  inline-size: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.primary-button {
+  background-color: black;
+  color: white;
+  border-radius: 0.5em;
+}
+
+.secondary-button {
+  border-color: white;
+  background-color: white;
+  border-radius: 0.5em;
+}
+
+body {
+  color: white;
+  background-color: rgb(197, 5, 12);
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+a:visited {
+  color: black
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul{
+  list-style-position: inside;
+}
+
