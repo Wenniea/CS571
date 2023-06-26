@@ -1,0 +1,1 @@
+		let result = stud.filter( person => {
